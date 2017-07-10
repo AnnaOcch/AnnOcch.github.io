@@ -1,0 +1,18 @@
+h2 {
+  color: red;
+}
+
+.gold {
+color: gold;
+font-size: 12px;
+}
+
+#gameLink {
+    text-align: center;
+    border: 1px solid gray;
+}
+
+.btn-twitter {
+background-color : #00acee;
+border-color : #009ad5;
+}
